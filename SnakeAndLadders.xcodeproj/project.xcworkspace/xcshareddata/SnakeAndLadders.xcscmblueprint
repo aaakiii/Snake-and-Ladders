@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "841CE50FA5FBACE4384F5643CCFCB46A32A53FFE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "841CE50FA5FBACE4384F5643CCFCB46A32A53FFE" : 9223372036854775807,
+    "98021C5CE6483C8C3109A806799808211707111C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23924304-252F-41F4-938B-804E4F132587",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "841CE50FA5FBACE4384F5643CCFCB46A32A53FFE" : "SnakeAndLadders\/",
+    "98021C5CE6483C8C3109A806799808211707111C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SnakeAndLadders",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SnakeAndLadders.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aaakiii\/Snake-and-Ladders.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841CE50FA5FBACE4384F5643CCFCB46A32A53FFE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaakiii\/Objective-C.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98021C5CE6483C8C3109A806799808211707111C"
+    }
+  ]
+}
